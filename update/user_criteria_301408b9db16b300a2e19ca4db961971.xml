@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="user_criteria">
+    <user_criteria action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <company/>
+        <department/>
+        <group>0a52d3dcd7011200f2d224837e6103f2,aaccc971c0a8001500fe1ff4302de101</group>
+        <location/>
+        <match_all>false</match_all>
+        <name>Asset Contributores</name>
+        <role/>
+        <script/>
+        <sys_class_name>user_criteria</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-27 21:56:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>301408b9db16b300a2e19ca4db961971</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Asset Contributores</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>user_criteria_301408b9db16b300a2e19ca4db961971</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-27 21:56:09</sys_updated_on>
+        <user/>
+    </user_criteria>
+</record_update>
